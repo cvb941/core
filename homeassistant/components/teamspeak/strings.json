@@ -1,0 +1,25 @@
+{
+  "title": "Teamspeak Server",
+  "config": {
+    "step": {
+      "user": {
+        "description": "Set up your TeamSpeak Server instance to allow monitoring.",
+        "title": "Link your TeamSpeak Server",
+        "data": {
+          "name": "Name",
+          "host": "[%key:common::config_flow::data::host%]",
+          "username": "[%key:common::config_flow::data::username%]",
+          "password": "[%key:common::config_flow::data::password%]"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "[%key:common::config_flow::error::cannot_connect%]",
+      "invalid_auth": "[%key:common::config_flow::error::invalid_auth%]",
+      "unknown": "[%key:common::config_flow::error::unknown%]"
+    },
+    "abort": {
+      "already_configured": "[%key:common::config_flow::abort::already_configured_device%]"
+    }
+  }
+}

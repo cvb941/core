@@ -1,0 +1,12 @@
+{
+  "domain": "teamspeak",
+  "name": "Teamspeak Server",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/teamspeak",
+  "requirements": ["ts3==2.0.0b3"],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": ["@cvb941"]
+}

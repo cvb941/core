@@ -405,6 +405,7 @@ homeassistant/components/tado/* @michaelarnauts @bdraco
 homeassistant/components/tahoma/* @philklei
 homeassistant/components/tankerkoenig/* @guillempages
 homeassistant/components/tautulli/* @ludeeus
+homeassistant/components/teamspeak/* @cvb941
 homeassistant/components/tellduslive/* @fredrike
 homeassistant/components/template/* @PhracturedBlue @tetienne
 homeassistant/components/tesla/* @zabuldon @alandtse

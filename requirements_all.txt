@@ -2119,6 +2119,9 @@ tp-connected==0.0.4
 # homeassistant.components.transmission
 transmissionrpc==0.11
 
+# homeassistant.components.teamspeak
+ts3==2.0.0b3
+
 # homeassistant.components.tuya
 tuyaha==0.0.6
 

@@ -146,6 +146,7 @@ FLOWS = [
     "starline",
     "synology_dsm",
     "tado",
+    "teamspeak",
     "tellduslive",
     "tesla",
     "tibber",
